@@ -21,6 +21,7 @@ yay -S --needed \
   visual-studio-code-bin \
   ytmdesktop-bin \
   zsh \
+  zsh-completions \
 ```
 
 ## ZSH
