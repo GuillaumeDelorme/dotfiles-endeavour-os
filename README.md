@@ -4,7 +4,7 @@
 
 ```sh
 yay
-yay -S \
+yay -S --needed \
   blender \
   brave-bin \
   cozy-desktop \
@@ -22,3 +22,11 @@ yay -S \
   ytmdesktop-bin \
   zsh \
 ```
+
+## ZSH
+
+- Install a nerd font : https://github.com/ryanoasis/nerd-fonts (I use "Hack Nerd Font")
+- Choose the nerd font in your terminal
+- Install oh my zsh : https://ohmyz.sh/
+- Install Powerlevel10k : https://github.com/romkatv/powerlevel10k
+- Use ~/.p10k.zsh and ~/.zshrc of this repo
