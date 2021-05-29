@@ -17,6 +17,7 @@ yay -S --needed \
   lolcat \
   molotov \
   nvm \
+  ruby-colorls \
   slack-desktop \
   steam \
   tilix \
@@ -27,7 +28,7 @@ yay -S --needed \
 
 ## ZSH
 
-- Install a nerd font : https://github.com/ryanoasis/nerd-fonts (I use "Fira Code Bold")
+- Install a nerd font : https://www.nerdfonts.com/font-downloads (I use "Fira Code Bold")
 - Choose the nerd font in your terminal
 - Install oh my zsh : https://ohmyz.sh/
 - Install Powerlevel10k : https://github.com/romkatv/powerlevel10k
