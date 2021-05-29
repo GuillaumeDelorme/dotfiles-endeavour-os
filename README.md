@@ -14,6 +14,7 @@ yay -S --needed \
   inkscape \
   keeweb-desktop-bin \
   libreoffice-fresh \
+  lolcat \
   molotov \
   nvm \
   slack-desktop \
@@ -46,4 +47,12 @@ Install latest LTS :
 
 ```sh
 nvm install --lts
+```
+
+Tilix config
+
+Import the config with :
+
+```sh
+dconf load /com/gexperts/Tilix/ < tilix.dconf
 ```
