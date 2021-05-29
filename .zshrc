@@ -117,3 +117,6 @@ source /usr/share/nvm/init-nvm.sh
 if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
   source /etc/profile.d/vte.sh
 fi
+
+# Color ls
+alias ls='colorls'
