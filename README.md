@@ -49,7 +49,7 @@ Install latest LTS :
 nvm install --lts
 ```
 
-Tilix config
+## Tilix config
 
 Import the config with :
 
