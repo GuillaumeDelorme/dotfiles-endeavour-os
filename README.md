@@ -6,7 +6,6 @@
 yay
 yay -S --needed \
   blender \
-  brave-bin \
   cozy-desktop \
   discord \
   docker \
@@ -15,6 +14,7 @@ yay -S --needed \
   keeweb-desktop-bin \
   libreoffice-fresh \
   lolcat \
+  microsoft-edge-stable-bin \
   molotov \
   nvm \
   ruby-colorls \
