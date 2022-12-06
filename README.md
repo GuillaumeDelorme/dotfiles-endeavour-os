@@ -20,7 +20,6 @@ yay -S --needed \
   ruby-colorls \
   slack-desktop \
   steam \
-  tilix \
   visual-studio-code-bin \
   ytmdesktop-bin \
   zsh \
@@ -48,12 +47,4 @@ Install latest LTS :
 
 ```sh
 nvm install --lts
-```
-
-## Tilix config
-
-Import the config with :
-
-```sh
-dconf load /com/gexperts/Tilix/ < tilix.dconf
 ```
